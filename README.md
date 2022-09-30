@@ -8,11 +8,6 @@ My name is Jacia Ebubechi and I am a Machine learning Engineer with over 2 years
 - ✍I contribute to the YUAN and Draft.dev as a technical writer on AI and Non-AI topics.
 - 🐱‍🏍I work with SixPath Studios as a Technical Game Writer and Management Team member.
 
-### **Fun Fact😄😅** ###
-- 🤸‍♀️I skip a lot
-- 👩‍💻I code and work mostly at night
-- 🎂I love cakes and
-- 🥇 I love google collaboratory notebook
 
 ### **Extra Activities🎉** ###
 When not coding or learning, I maybe found in a corner:
