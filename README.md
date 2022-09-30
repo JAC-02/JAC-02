@@ -10,7 +10,7 @@ My name is Jacia Ebubechi and I am a Machine learning Engineer with over 2 years
 
 ### **Fun Fact😄😅** ###
 - 🤸‍♀️I skip a lot
-- 👩‍💻I code and work mostly at light
+- 👩‍💻I code and work mostly at night
 - 🎂I love cakes and
 - 🥇 I love google collaboratory notebook
 
