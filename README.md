@@ -1,4 +1,5 @@
-### **Hi there👋👋** 
+                                                                                                                                      
+## **Hello👋👋** 
 
 My name is Jacia Ebubechi and I am a Machine learning Engineer with over 2 years of experience working and contributing to machine learning projects. Apart from being a machine learning engineer, I am a professional technical writer that leverage my knowledge of few technological frameworks to curate technical contents for tech blogs.
 
@@ -18,3 +19,15 @@ When not coding, working on articles or learning, I maybe found in a corner:
 -
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAC-02&theme=radical)
+
+
+### **Badges🥇**
+
+![Hashnode Warrior Of Words](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
+
+### **Connect With Me👌**
+![](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fjacia_ebubechi)
+
