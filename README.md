@@ -1,7 +1,7 @@
                                                                                                                                       
 ## **Hello👋👋** 
 
-My name is Jacia Ebubechi and I am a Machine learning Engineer with over 2 years of experience working and contributing to machine learning projects. Apart from being a machine learning engineer, I am a professional technical writer that leverage my knowledge of few technological frameworks to curate technical contents for tech blogs.
+My name is Jacia Ebubechi and I am a Machine learning Engineer with 2 years of experience working and contributing to machine learning projects. Apart from being a machine learning engineer, I am a professional technical writer that leverage my knowledge of few technological frameworks to curate technical contents for tech blogs.
 
 - 👩‍💻I am currently working on something interesting.
 - 👩‍🏫I am always available for any machine learning paid internships or technical writing gigs.
