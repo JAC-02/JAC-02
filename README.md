@@ -17,4 +17,4 @@ When not coding, working on articles or learning, I maybe found in a corner:
 - 🤸‍♀️Applying for jobs.
 -
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=JAC-02&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=JAC-02&theme=radical)
